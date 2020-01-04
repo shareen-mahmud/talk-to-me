@@ -1,0 +1,76 @@
+{
+  "results": [
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "Less method checks the first item is less than the second item. ",
+          "confidence": 0.757,
+          "timestamps": [
+            [
+              "Less",
+              0.98,
+              1.5
+            ],
+            [
+              "method",
+              1.53,
+              1.99
+            ],
+            [
+              "checks if",
+              2.07,
+              2.42
+            ],
+            [
+              "the",
+              2.66,
+              2.76
+            ],
+            [
+              "first",
+              2.76,
+              3.19
+            ],
+            [
+              "item",
+              3.19,
+              3.55
+            ],
+            [
+              "is",
+              3.58,
+              3.75
+            ],
+            [
+              "less",
+              3.75,
+              4.09
+            ],
+            [
+              "than",
+              4.2,
+              4.33
+            ],
+            [
+              "the",
+              4.33,
+              4.43
+            ],
+            [
+              "second",
+              4.43,
+              4.8
+            ],
+            [
+              "item.",
+              4.8,
+              5.16
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "result_index": 0
+}

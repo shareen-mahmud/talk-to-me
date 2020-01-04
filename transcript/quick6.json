@@ -1,0 +1,76 @@
+{
+  "results": [
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "We call exchange method to swap the items in I and J. ",
+          "confidence": 0.716,
+          "timestamps": [
+            [
+              "We",
+              1.48,
+              1.59
+            ],
+            [
+              "call",
+              1.59,
+              1.96
+            ],
+            [
+              "exchange",
+              1.96,
+              2.7
+            ],
+            [
+              "method",
+              2.7,
+              3.15
+            ],
+            [
+              "to",
+              3.15,
+              3.29
+            ],
+            [
+              "swap",
+              3.29,
+              3.79
+            ],
+            [
+              "the",
+              3.79,
+              3.91
+            ],
+            [
+              "items",
+              3.91,
+              4.34
+            ],
+            [
+              "in",
+              4.37,
+              4.57
+            ],
+            [
+              "I",
+              4.6,
+              4.99
+            ],
+            [
+              "and",
+              5.17,
+              5.38
+            ],
+            [
+              "J.",
+              5.38,
+              5.8
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "result_index": 0
+}

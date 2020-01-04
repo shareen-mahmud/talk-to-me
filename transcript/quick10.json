@@ -1,0 +1,156 @@
+{
+  "results": [
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "The exchange method swaps the item in index I with the item in index J. The Java Object class is used here. An Object R is used as a temporary storage here. ",
+          "confidence": 0.742,
+          "timestamps": [
+            [
+              "The",
+              0.89,
+              0.99
+            ],
+            [
+              "exchange",
+              0.99,
+              1.53
+            ],
+            [
+              "method",
+              1.53,
+              2.05
+            ],
+            [
+              "swaps",
+              2.08,
+              2.56
+            ],
+            [
+              "the",
+              2.56,
+              2.67
+            ],
+            [
+              "item",
+              2.67,
+              3.06
+            ],
+            [
+              "in index",
+              3.09,
+              3.59
+            ],
+            [
+              "I",
+              3.63,
+              4.01
+            ],
+            [
+              "with",
+              4.19,
+              4.33
+            ],
+            [
+              "the",
+              4.33,
+              4.45
+            ],
+            [
+              "item",
+              4.45,
+              4.86
+            ],
+            [
+              "in index J.",
+              4.89,
+              5.85
+            ],
+            [
+              " The",
+              6.24,
+              6.36
+            ],
+            [
+              "Java",
+              6.36,
+              6.67
+            ],
+            [
+              "Object",
+              6.67,
+              7.09
+            ],
+            [
+              "class is",
+              7.09,
+              7.61
+            ],
+            [
+              "used",
+              7.61,
+              7.92
+            ],
+            [
+              "here.",
+              7.92,
+              8.19
+            ],
+            [
+              " An",
+              8.64,
+              8.82
+            ],
+            [
+              "Object",
+              8.96,
+              9.35
+            ],
+            [
+              "r",
+              9.39,
+              9.91
+            ],
+            [
+              "is",
+              9.94,
+              10.11
+            ],
+            [
+              "used",
+              10.11,
+              10.52
+            ],
+            [
+              "as",
+              10.55,
+              10.69
+            ],
+            [
+              "a",
+              10.69,
+              10.75
+            ],
+            [
+              "temporary",
+              10.75,
+              11.32
+            ],
+            [
+              "storage",
+              11.32,
+              11.75
+            ],
+            [
+              "here.",
+              11.75,
+              12.04
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "result_index": 0
+}

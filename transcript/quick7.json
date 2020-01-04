@@ -1,0 +1,96 @@
+{
+  "results": [
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "we exit the while loop once we see that index I becomes greater than index J. ",
+          "confidence": 0.769,
+          "timestamps": [
+            [
+              "we",
+              1.13,
+              1.31
+            ],
+            [
+              "exit",
+              1.31,
+              1.74
+            ],
+            [
+              "the",
+              1.74,
+              1.83
+            ],
+            [
+              "while",
+              1.83,
+              2.14
+            ],
+            [
+              "loop",
+              2.14,
+              2.43
+            ],
+            [
+              "once",
+              2.57,
+              2.93
+            ],
+            [
+              "we",
+              2.93,
+              3.05
+            ],
+            [
+              "see",
+              3.05,
+              3.3
+            ],
+            [
+              "that",
+              3.3,
+              3.49
+            ],
+            [
+              "index",
+              3.52,
+              3.93
+            ],
+            [
+              "I",
+              4.01,
+              4.58
+            ],
+            [
+              "becomes",
+              4.62,
+              5.05
+            ],
+            [
+              "greater",
+              5.05,
+              5.62
+            ],
+            [
+              "than",
+              5.65,
+              5.81
+            ],
+            [
+              "index",
+              5.81,
+              6.17
+            ],
+            [
+              "J.",
+              6.3,
+              6.71
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "result_index": 0
+}

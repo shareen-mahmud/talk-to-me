@@ -1,0 +1,91 @@
+{
+  "results": [
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "finally we copy back items from this sorted out of the rear ray to the original array Hey ",
+          "confidence": 0.78,
+          "timestamps": [
+            [
+              "Finally,",
+              1.14,
+              1.75
+            ],
+            [
+              "we",
+              1.78,
+              1.91
+            ],
+            [
+              "copy",
+              1.91,
+              2.31
+            ],
+            [
+              "back",
+              2.31,
+              2.63
+            ],
+            [
+              "items",
+              2.63,
+              3.1
+            ],
+            [
+              "from",
+              3.1,
+              3.29
+            ],
+            [
+              "the",
+              3.29,
+              3.45
+            ],
+            [
+              "sorted",
+              3.45,
+              3.87
+            ],
+            [
+              "auxiliary",
+              3.9,
+              4.46
+            ],
+            [
+              "array",
+              4.46,
+              4.83
+            ],
+            [
+              "to",
+              5.11,
+              5.24
+            ],
+            [
+              "the",
+              5.24,
+              5.36
+            ],
+            [
+              "original",
+              5.36,
+              5.8
+            ],
+            [
+              "array",
+              5.8,
+              6.28
+            ],
+            [
+              "A.",
+              6.45,
+              6.87
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "result_index": 0
+}

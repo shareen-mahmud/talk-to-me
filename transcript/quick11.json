@@ -1,0 +1,96 @@
+{
+  "results": [
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "The show method just prints the final output. It prints all the elements of the array. ",
+          "confidence": 0.69,
+          "timestamps": [
+            [
+              "The",
+              1.15,
+              1.27
+            ],
+            [
+              "show",
+              1.27,
+              1.61
+            ],
+            [
+              "method",
+              1.61,
+              2.18
+            ],
+            [
+              "just",
+              2.28,
+              2.62
+            ],
+            [
+              "prints",
+              2.62,
+              2.94
+            ],
+            [
+              "the",
+              2.94,
+              3.04
+            ],
+            [
+              "final",
+              3.04,
+              3.4
+            ],
+            [
+              "output.",
+              3.4,
+              3.91
+            ],
+            [
+              " It",
+              4.22,
+              4.4
+            ],
+            [
+              "prints",
+              4.4,
+              4.65
+            ],
+            [
+              "all",
+              4.73,
+              5.12
+            ],
+            [
+              "the",
+              5.12,
+              5.28
+            ],
+            [
+              "elements",
+              5.28,
+              5.72
+            ],
+            [
+              "of",
+              5.87,
+              6.02
+            ],
+            [
+              "the",
+              6.02,
+              6.17
+            ],
+            [
+              "array.",
+              6.17,
+              6.58
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "result_index": 0
+}

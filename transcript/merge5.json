@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "method one basically emerges to sort it all right into one single array ",
+          "confidence": 0.797,
+          "timestamps": [
+            [
+              "method1",
+              1.42,
+              2.27
+            ],
+            [
+              "basically",
+              2.31,
+              2.82
+            ],
+            [
+              "merges",
+              2.82,
+              3.38
+            ],
+            [
+              "two",
+              3.44,
+              3.86
+            ],
+            [
+              "sorted",
+              3.89,
+              4.25
+            ],
+            [
+              "arrays",
+              4.25,
+              4.69
+            ],
+            [
+              "into",
+              5.02,
+              5.27
+            ],
+            [
+              "one",
+              5.27,
+              5.73
+            ],
+            [
+              "single",
+              5.76,
+              6.21
+            ],
+            [
+              "array.",
+              6.21,
+              6.71
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "result_index": 0
+}
